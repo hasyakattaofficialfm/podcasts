@@ -1,0 +1,56 @@
+<rss version="2.0">
+<channel>
+<title>Saathiya Tune Kya Kiya</title>
+<description>
+Saathiya Tune Kya Kiya Instrumental cover by Smit Shetye, Hasya Katta Official, Parva Madhu, Prashik Gawai, Aman Iyer, Sahil Joshi.
+</description>
+<itunes:block>no</itunes:block>
+<googleplay:block>no</googleplay:block>
+<ttl>10</ttl>
+<image>
+<url>
+https://images.cdn.kukufm.com/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/0d8eafe785844fcab28d1ac5e674f38e.png
+</url>
+<title>Saathiya Tune Kya Kiya</title>
+<link>https://kukufm.com/show/saathiya-tune-kya-kiya-1/</link>
+</image>
+<link>https://kukufm.com/show/saathiya-tune-kya-kiya-1/</link>
+<generator>Hasya Katta Official FM Podcasts</generator>
+<lastBuildDate>Sat, 30 Oct 2021 08:15:03 UTC</lastBuildDate>
+<atom:link href="https://kukufm.com/api/v1/channels/104561/rss" rel="self" type="application/rss+xml"/>
+<author>Hasya Katta Official</author>
+<copyright>Hasya Katta Official</copyright>
+<language>en</language>
+<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+<itunes:author>Hasya Katta Official</itunes:author>
+<itunes:summary>
+Saathiya Tune Kya Kiya Instrumental cover by Smit Shetye, Hasya Katta Official, Parva Madhu, Prashik Gawai, Aman Iyer, Sahil Joshi.
+</itunes:summary>
+<itunes:type>episodic</itunes:type>
+<itunes:owner>
+<itunes:name>Hasya Katta Official</itunes:name>
+<itunes:email>hasyakattaofficialfm@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>No</itunes:explicit>
+<itunes:category text="Poems & Shayari"/>
+<item>
+<title>Saathiya Tune Kya Kiya</title>
+<description/>
+<link>
+https://kukufm.com/content-unit/saathiya-tune-kya-kiya/
+</link>
+<guid isPermaLink="false">99391b38-b431-4f20-a077-34d80f05b8ea</guid>
+<dc:creator>Hasya Katta Official</dc:creator>
+<episodePublishDate>Sat, 30 Oct 2021 01:15:20 UTC</episodePublishDate>
+<pubDate>Sat, 30 Oct 2021 01:15:20 UTC</pubDate>
+<enclosure length="3310740" type="audio/x-m4a" url="https://d1l07mcd18xic4.cloudfront.net/audio/99391b38-b431-4f20-a077-34d80f05b8eafull.mp4"/>
+<itunes:summary/>
+<itunes:explicit>No</itunes:explicit>
+<itunes:duration>194</itunes:duration>
+<itunes:image href="https://images.cdn.kukufm.com/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/0d8eafe785844fcab28d1ac5e674f38e.png"/>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+</channel>
+</rss>
